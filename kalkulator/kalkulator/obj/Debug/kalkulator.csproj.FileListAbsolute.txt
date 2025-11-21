@@ -1,0 +1,7 @@
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\bin\Debug\kalkulator.exe.config
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\bin\Debug\kalkulator.exe
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\bin\Debug\kalkulator.pdb
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.AssemblyReference.cache
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\obj\Debug\kalkulator.csproj.CoreCompileInputs.cache
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\obj\Debug\kalkulator.exe
+D:\Leny Khoirina_X PPLG 1\kalkulator\kalkulator\obj\Debug\kalkulator.pdb
