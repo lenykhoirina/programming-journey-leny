@@ -1,0 +1,7 @@
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\bin\Debug\Tugas4_Leny Khoirina_X PPLG 1.exe.config
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\bin\Debug\Tugas4_Leny Khoirina_X PPLG 1.exe
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\bin\Debug\Tugas4_Leny Khoirina_X PPLG 1.pdb
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\obj\Debug\Tugas4_Leny Khoirina_X PPLG 1.csproj.AssemblyReference.cache
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\obj\Debug\Tugas4_Leny Khoirina_X PPLG 1.csproj.CoreCompileInputs.cache
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\obj\Debug\Tugas4_Leny Khoirina_X PPLG 1.exe
+D:\Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\Tugas4_Leny Khoirina_X PPLG 1\obj\Debug\Tugas4_Leny Khoirina_X PPLG 1.pdb
