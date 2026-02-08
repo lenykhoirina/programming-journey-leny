@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tugas Form</title>
+</head>
+<body>
+    <center>
+        <h2>FORMULIR PENDAFTARAN CALON SISWA BARU SMK</h2>
+    </center>
+    <form action="/submit" method="post">
+        <fieldset>
+            <legend>BIODATA SISWA</legend>
+            <table>
+                <tr>
+                    <td>No. UN SMP/MTs/Sederajat</td>
+                    <td><input type="text" name="no.un_smp/mts/sederajat" required></td>
+                </tr>
+                <tr>
+                    <td>Nama Lengkap</td>
+                    <td><input type="text" name="nama_lengkap" required></td>
+                </tr>
+                <tr>
+                    <td>Jenis Kelamin</td>
+                    <td>
+                    <label for="laki-laki">
+                    <input type="radio" id="laki-laki" name="laki-laki" value="laki-laki">
+                    Laki-laki
+                    </label><br>
+                    <label for="perempuan">
+                    <input type="radio" id="perempuan" name="perempuan" value="perempuan">
+                    Perempuan
+                    </label><br>
+                    </td>
+                </tr>
+                <tr>
+                    <td>Nama Orangtua/Wali</td>
+                    <td><input type="text" name="nama_orangtua/wali" required></td>
+                </tr>
+                <tr>
+                    <td>Alamat (sesuai KK/KTP/SuratKet)</td>
+                    <td><input type="text" name="Alamat"></td>
+                </tr>
+                <tr>
+                    <td>Kota/Kabupaten</td>
+                    <td><input type="text" name="kota"></td>
+                </tr>
+                <tr>
+                    <td>Agama</td>
+                    <td>
+                        <Form action= >
+                        <label for='Agama'></label> <br>
+                        <select id="Agama" name="Agama">
+                            <option value="isl">Islam</option>
+                            <option value="kr">Kristen</option>
+                            <option value="ka">Katolik</option>
+                            <option value="bu">Budha</option>
+                            <option value="hi">Hindu</option>
+                            <option value="ko">Konghucu</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+        </fieldset>
+        <fieldset>
+            <legend>PENILAIAN</legend>
+            <p>NILAI UJIAN NASIONAL (NUN)</p>
+            <table>
+                <tr>
+                    <td>1.Matematika</td>
+                    <td><input type="text" name="matematika" required></td>
+                </tr>
+                <tr>
+                    <td>2. Bahasa Indonesia</td>
+                    <td><input type="text" name="bahasaindonesia" required></td>
+                </tr>
+                <tr>
+                    <td>3. Bahasa Inggris</td>
+                    <td><input type="text" name="bahasainggris" required></td>
+                </tr>
+                <tr>
+                    <td>4. Ilmu Pengetahuan Alam (IPA)</td>
+                    <td><input type="text" name="ipa" required></td>
+                </tr>
+                <tr>
+                    <td>Jumlah NUN</td>
+                    <td><input type="text" name="jumlah nun required"></td>
+                </tr>
+                <tr>
+                    <td>NILAI BONUS PRESTASI (NBP)</td>
+                    <td><input type="text" name="nilai bonus" required></td>
+                </tr>
+                <tr>
+                    <td>JUMLAH TOTAL NILAI AKHIR PPDB</td>
+                    <td>(Rumus : NUN + NBP)</td><br>
+                </tr>
+            </table>
+        </fieldset>
+    </form>
+</body>
+</html>
