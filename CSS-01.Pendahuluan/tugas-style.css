@@ -1,0 +1,25 @@
+/* Style for the tugas3-css file */
+body{
+    font-family: 'Times New Roman', Times, serif;
+    background-color: #a0a3f1;
+    margin: auto;
+    padding: 0;
+    }
+h1  {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(78, 83, 184);
+    font-size: 70px;
+    text-align: center;
+    }
+h2  {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(78, 83, 184);
+    font-size: 30px;
+    text-align: center;
+    }
+p   {
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(78, 83, 184);
+    font-size: 20px;
+    text-align: center;
+    }
