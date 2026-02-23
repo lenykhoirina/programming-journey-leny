@@ -1,0 +1,41 @@
+h1 {
+    text-align: center;
+}
+body {
+    background-color: #9fd2f2;
+}
+
+.p1 {
+    font-size: 18px; 
+    font-family: Arial, sans-serif;
+    font-weight: normal;
+    font-style: normal;
+}
+
+.p2 {
+    font-size: 2em; 
+    font-family: "Times New Roman", serif;
+    font-weight: bold;
+    font-style: normal;
+}
+
+.p3 {
+    font-size: 1.2rem; 
+    font-family: "Courier New", monospace;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.p4 {
+    font-size: 120%; 
+    font-family: Verdana, sans-serif;
+    font-weight: lighter;
+    font-style: normal;
+}
+
+.p5 {
+    font-size: 22px;
+    font-family: Georgia, serif;
+    font-weight: 700;
+    font-style: oblique;
+}
