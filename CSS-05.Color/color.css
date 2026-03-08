@@ -1,0 +1,24 @@
+.warna1 {
+            background-color: rgb(237, 241, 118);
+            color: white;
+            padding: 10px;
+            margin: 5px;
+        }
+.warna2 {
+            background-color: rgba(49, 96, 235, 0.5);
+            color: white;
+            padding: 10px;
+            margin: 5px;
+        }
+.warna3 {
+            background-color: hsl(315, 80%, 78%);
+            color: white;
+            padding: 10px;
+            margin: 5px;
+        }
+.warna4 {
+            background-color: hsl(0, 75%, 56%);
+            color: white;
+            padding: 10px;
+            margin: 5px;
+        }
