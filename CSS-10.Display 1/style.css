@@ -1,0 +1,16 @@
+ul {
+    background-color: rgb(151, 200, 216);
+    padding: 10px;
+}
+
+li {
+    display: inline-block;
+    margin-right: 170px;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px;
+    color: rgb(157, 107, 252);
+}
